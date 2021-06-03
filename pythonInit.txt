@@ -1,0 +1,3 @@
+pip install nltk
+pip install clips
+pip install clipspy
